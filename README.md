@@ -9,7 +9,7 @@ In this project we were to utilize what we've learned during the first week of t
 n/a
 
 ## Usage
-n/a
+The depoyled website is located here. https://peshey.github.io/Challenge-1/
 
 ## Credits
 
