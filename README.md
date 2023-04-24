@@ -1,4 +1,4 @@
-# Challenge-1
+# Horiseon Accessibility Project
 
 ## Description
 
@@ -9,7 +9,7 @@ In this project we were to utilize what we've learned during the first week of t
 n/a
 
 ## Usage
-The depoyled website is located here. https://peshey.github.io/Challenge-1/
+The depoyled website is located here. https://peshey.github.io/C1-Horiseon-Accessability-project/
 
 ## Credits
 
